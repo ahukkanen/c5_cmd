@@ -19,6 +19,8 @@ For Apache servers, the folder should also contain a .htaccess file which preven
 
 ## Usage ##
 
+These guides assume that the "php" binary is in your PATH. If the examples below do not work, replace the "php" part with the location of the php binary on the server (e.g. /usr/bin/php).
+
 ### Running a tool ###
 
 1. Go into the bin-folder cd /your/home/dir/public_html/bin
