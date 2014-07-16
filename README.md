@@ -2,7 +2,7 @@
 
 This repository provides scripts that allow you to run specific parts of the concrete5 installation through the command line.
 
-These are extremely handy when you need to run a tool or a job that might take a long time to execute. For example importing hundreds of thousands of database entries. In this kind of situations, raising the PHP's own execution limit might not always be enough if you face e.g. server timeout settings. And other benefit is that these do not clog the web server's worker processes as the scripts would be running a long time. Therefore, it saves also headaches for your server administrators.
+These are extremely handy when you need to run a tool or a job that might take a long time to execute. For example importing hundreds of thousands of database entries. In this kind of situations, raising the PHP's own execution limit might not always be enough e.g. if you reach server timeout settings. And other benefit is that these do not clog the web server's worker processes as the scripts would be running a long time. Therefore, it saves also headaches for your server administrators.
 
 These tools are aimed to work with concrete5.6.
 
