@@ -1,0 +1,4 @@
+# Aptana
+.settings/**
+.project
+.pydevproject
